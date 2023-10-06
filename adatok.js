@@ -1,0 +1,1 @@
+export const CSALADTAGOK = ["Nagy Ádám", "Kurucz Marianna", "Mayer Mariann", "Wratin Gábor", "Tisza Mária", "Nagy Károly", "Nagy Noémi"]

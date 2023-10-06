@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+*{
+    font-family: 'Young Serif', serif;
+}
+
+table,
+th,
+td {
+  border: 5px solid white;
+  background-image: linear-gradient(
+    to right,
+    red,
+    blue,
+    indigo,
+    violet
+  );
+  color: aliceblue;
+  padding: 5px;
+  font-size: 20px;
+}
